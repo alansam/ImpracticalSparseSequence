@@ -1,4 +1,4 @@
-//  STL smart-poinnter std::unique_ptr experiments
+//  STL smart-pointer std::unique_ptr experiments
 //
 //  MARK: - References.
 //  @see: https://en.cppreference.com/w/cpp/memory/unique_ptr
